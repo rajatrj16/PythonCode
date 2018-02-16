@@ -1,0 +1,3 @@
+This file is written for Exception.py to show modification or error in the exception block
+Write something into the textfile
+This file may be overwritten in try block success!
